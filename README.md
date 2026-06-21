@@ -1,2 +1,12 @@
 # vip-nm-journal
-HTML page archive and documentation
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 文件组成
+
+- `.html` 文件为独立页面
+- `README.md` 为仓库基础说明
+
+## 存档说明
+
+页面文件会持续归档，后续内容以实际发布结果为准。
